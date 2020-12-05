@@ -1,0 +1,6 @@
+abc,efg
+india,bangla
+pune,kolkata
+mumbai,delhi
+B'lore,channai
+Patna,Ranaghat
